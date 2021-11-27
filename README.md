@@ -1,4 +1,4 @@
-# colstag
+# ColStag
 
 Keyboard project around staggered columns, over a laptop.
 
